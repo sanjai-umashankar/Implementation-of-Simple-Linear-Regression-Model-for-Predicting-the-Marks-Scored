@@ -60,7 +60,8 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+![ex 2](https://github.com/user-attachments/assets/d33939d0-b089-41d4-ad4e-5004767a82a3)
 
 
 ## Result:
